@@ -1,5 +1,7 @@
 # DataScienceProjects
 
+Check out my profile on Kaggle: [https://www.kaggle.com/hendriknebel](https://www.kaggle.com/hendriknebel)
+
 ## My Kernels on Kaggle.com
 | Subject | Type | My Kernel | Summary | |
 |---|---|---|---|---|
